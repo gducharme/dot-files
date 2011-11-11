@@ -1,0 +1,5 @@
+[alias]
+	last = cat-file commit HEAD
+[user]
+	name = Geoffrey Ducharme
+	email = geoffrey.ducharme@gmail.com
