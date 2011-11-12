@@ -1,5 +1,4 @@
- [[ -s "/home/geoffrey/.rvm/scripts/rvm" ]] && source "/home/geoffrey/.rvm/scripts/rvm"
-alias terdi='cd ~/Programming/terdi'
-alias modp='vim ~/.bash_profile'
+ [[ -s "~/.rvm/scripts/rvm" ]] && source "~/.rvm/scripts/rvm"
+alias profile='vim ~/.bash_profile;sauce'
 alias modvim='vim ~/.vimrc'
-alias soce='source ~/.bash_profile'
+alias sauce='source ~/.bash_profile'
